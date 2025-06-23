@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Conhecimento em JavaScript, Python, HTML e CSS  
-🚀 Buscando oportunidade em TI, especialmente estágio em front-end  
+🚀 Buscando oportunidade em TI
 
 ---
 
